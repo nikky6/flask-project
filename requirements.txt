@@ -21,7 +21,7 @@ jsonify==0.5
 jsonschema==2.6.0
 Logbook==1.4.0
 logzero==1.5.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 ORM==1.1.0
 pika==0.12.0
